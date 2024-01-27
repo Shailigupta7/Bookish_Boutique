@@ -68,8 +68,4 @@ based on your needs
 ```
 
 
-## API Reference
-
-#### You can access the API reference using the following link:~
-/api/v1/docs/
 
